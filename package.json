@@ -1,0 +1,14 @@
+{
+    "author": "",
+    "dependencies": {
+        "zhihu": "0.0.21"
+    },
+    "description": "Zhihu Scraper",
+    "license": "ISC",
+    "main": "index.js",
+    "name": "zhihu_scraper",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "0.0.1"
+}
