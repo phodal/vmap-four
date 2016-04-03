@@ -1,3 +1,215 @@
 {
-  
+  "name": "Phodal Huang",
+  "first_name": "Phodal",
+  "last_name": "Huang",
+  "title": "ThoughtWorks Dev",
+  "location": "中国 陕西 西安",
+  "number_of_connections": "57",
+  "country": "中国 陕西 西安",
+  "industry": "计算机网络",
+  "summary": null,
+  "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAANCAAAAJDFjNzUxOGY2LTgzNTgtNDM1YS1iYWFjLTc3ZGEwZDMyZTM0OQ.jpg",
+  "projects": [
+    {
+      "title": "Italian most popular real estate website",
+      "link": null,
+      "start_date": null,
+      "end_date": null,
+      "description": "The client owns the Italian most popular real estate website. The site provides a medium for agents and business brokers to advertise their listings on the Internet and for potential buyers/leasees to search for. The company also provides a full range of Internet services to agents and business brokers from enhanced marketing solutions to web design and development. The content management and publish system contains many components and sub-systems, the aim of this project is to provide new functionalities to current system, simplify entire system to catch up the trend of technology and keep the architecture up to date.Yale served as a QA Analyst and QA Lead, also proactive involved in almost all project activities based on Agile practices: coordinate the project team in Xi’an for schedule and quality, communication between Thoughtworks team in Xi’an and Client team in Milan (both QA, Developer, BA and Producer), help to manage team and analysis risk of current status, assisting business analyst preparing stories and doing project / iteration planning, and also response for creating test strategy / plan, designing test cases, performing testing and doing showcase to client, and get highly involved in automation testing, suggest and implement automation testing framework, provide suggestions of test approach and process refinement.",
+      "associates": [
+        "Phodal Huang",
+        "Yong Huang",
+        "张静强"
+      ]
+    }
+  ],
+  "linkedin_url": "http://localhost:8000/phodal.html",
+  "education": [
+    {
+      "name": "Xi'an University of Science and Art",
+      "description": "Bachelor's degree, Electrical, Electronic and Communications Engineering Technology/Technician",
+      "degree": null,
+      "major": null,
+      "period": "2010 年 – 2014 年",
+      "start_date": "2010 年",
+      "end_date": "2014 年"
+    },
+    {
+      "name": "xian university",
+      "description": "理学士, 电子信息工程",
+      "degree": null,
+      "major": null,
+      "period": "2010 年 – 2014 年",
+      "start_date": "2010 年",
+      "end_date": "2014 年"
+    }
+  ],
+  "groups": [
+
+  ],
+  "websites": [
+
+  ],
+  "languages": [
+
+  ],
+  "skills": [
+    "Cloud Computing",
+    "linux",
+    "Apache",
+    "Django",
+    "Nginx",
+    "python",
+    "Internet of Things",
+    "jQuery",
+    "Embedded Linux",
+    "Embedded Systems",
+    "Web Applications",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Microsoft Word",
+    "Customer Service",
+    "其他 35 个",
+    "PowerPoint",
+    "English",
+    "Research",
+    "Windows",
+    "Outlook",
+    "Photoshop",
+    "Teaching",
+    "HTML",
+    "Emacs Lisp",
+    "SaaS",
+    "HTML 5",
+    "Advanced CSS",
+    "CSS Javascript",
+    "jQuery Mobile",
+    "REST",
+    "Android",
+    "Arduino",
+    "MCU",
+    "Atmel AVR",
+    "Mac OS",
+    "SEO",
+    "OpenSuse",
+    "Ubuntu",
+    "Operating Systems",
+    "Embedded Software",
+    "Processing",
+    "Google Chrome",
+    "Firefox",
+    "Web Design",
+    "Mobile Applications",
+    "Mobile Internet",
+    "CPP",
+    "Java",
+    "JavaScript",
+    "Vim",
+    "收起"
+  ],
+  "certifications": [
+
+  ],
+  "organizations": [
+
+  ],
+  "past_companies": [
+    {
+      "title": "Dev",
+      "company": "ThoughtWorks",
+      "duration": "1 年 10 个月",
+      "start_date": null,
+      "end_date": "2016-04-10",
+      "linkedin_company_url": "https://www.linkedin.com/company/thoughtworks?trk=ppro_cprof",
+      "url": "http://www.thoughtworks.com",
+      "website": "http://www.thoughtworks.com",
+      "industry": "Information Technology and Services",
+      "type": "Privately Held",
+      "headquarters": "200 E Randolph St\n25th Floor\nChicago,\nIL\n60601-6501\nUnited States",
+      "company_size": "1001-5000 employees",
+      "founded": "1993",
+      "address": "200 E Randolph St 25th Floor Chicago, IL 60601-6501 United States"
+    },
+    {
+      "title": "实习生",
+      "company": "ThoughtWorks",
+      "duration": "7 个月",
+      "start_date": null,
+      "end_date": null,
+      "linkedin_company_url": "https://www.linkedin.com/company/thoughtworks?trk=ppro_cprof",
+      "url": "http://www.thoughtworks.com",
+      "website": "http://www.thoughtworks.com",
+      "industry": "Information Technology and Services",
+      "type": "Privately Held",
+      "headquarters": "200 E Randolph St\n25th Floor\nChicago,\nIL\n60601-6501\nUnited States",
+      "company_size": "1001-5000 employees",
+      "founded": "1993",
+      "address": "200 E Randolph St 25th Floor Chicago, IL 60601-6501 United States"
+    }
+  ],
+  "current_companies": [
+
+  ],
+  "recommended_visitors": [
+    {
+      "link": "https://www.linkedin.com/in/dong-li-19499239?trk=pub-pbmap",
+      "name": "dong li",
+      "title": "developer",
+      "company": "ThoughtWorks"
+    },
+    {
+      "link": "https://www.linkedin.com/in/qilin-yao-4893636a?trk=pub-pbmap",
+      "name": "Qilin Yao",
+      "title": "Software Engineer",
+      "company": "ThoughtWorks"
+    },
+    {
+      "link": "https://www.linkedin.com/in/xichen2016?trk=pub-pbmap",
+      "name": "Xi Chen",
+      "title": "Software Developer",
+      "company": "ThoughtWorks"
+    },
+    {
+      "link": "https://www.linkedin.com/in/wang-lei-5662b230?trk=pub-pbmap",
+      "name": "Wang Lei",
+      "title": "ThoughtWorks首席咨询师（Lead Consultant）",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/guocheng-luo-88ab561a?trk=pub-pbmap",
+      "name": "Guocheng Luo",
+      "title": "--",
+      "company": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/haitao-zheng-b8a4b261?trk=pub-pbmap",
+      "name": "Haitao Zheng",
+      "title": "Android developer",
+      "company": "Thoughtworks"
+    },
+    {
+      "link": "https://www.linkedin.com/in/justinachen?trk=pub-pbmap",
+      "name": "Justina Chen",
+      "title": "Cloud Architect",
+      "company": "HUAWEI IT"
+    },
+    {
+      "link": "https://www.linkedin.com/in/junv-zhao-46944557?trk=pub-pbmap",
+      "name": "Junv Zhao",
+      "title": "Software Developer",
+      "company": "AdMaster Inc."
+    },
+    {
+      "link": "https://www.linkedin.com/in/zhangzz?trk=pub-pbmap",
+      "name": "Zhengzheng ZHANG",
+      "title": "Software Developer",
+      "company": "ThoughtWorks"
+    },
+    {
+      "link": "https://www.linkedin.com/in/vinongo?trk=pub-pbmap",
+      "name": "文一山",
+      "title": "Software Developer",
+      "company": "ThoughtWorks"
+    }
+  ]
 }
