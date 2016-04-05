@@ -1,6 +1,14 @@
 #VMap Four: The Data Crawl of V Map
 
-> 四大名捕
+**Setup**
+
+    npm install
+    bundle install
+
+**Run**
+    
+    ruby linkedin/scraper.rb
+    node zhihu/scraper.js
 
 ##API
 
